@@ -1,4 +1,4 @@
-#JOT IT
+##JOT IT
 
 ## Tech stack
 React + Vite
